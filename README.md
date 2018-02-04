@@ -10,7 +10,7 @@
 * ダウンロードしたisoファイルの結合  
 virtualboxでisoを指定する場合一つしか指定する方法がわからないので結合する。
 ```
-//コピーコマンドで指定8個分繰り返す
+//コピーコマンドで指定8個分繰り返すa
 copy /b  centos-1.iso + centos-2.iso centos.iso
 ```
 * vguestAddtionのインストール
